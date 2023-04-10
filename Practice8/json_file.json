@@ -1,0 +1,852 @@
+{
+    ".git": {
+        "type": "dir",
+        "size": "15398",
+        "parent_folder": "Python"
+    },
+    ".idea": {
+        "type": "dir",
+        "size": "14828",
+        "parent_folder": "Python"
+    },
+    "Practice1": {
+        "type": "dir",
+        "size": "3128",
+        "parent_folder": "Python"
+    },
+    "Practice10": {
+        "type": "dir",
+        "size": "0",
+        "parent_folder": "Python"
+    },
+    "Practice2": {
+        "type": "dir",
+        "size": "2981",
+        "parent_folder": "Python"
+    },
+    "Practice3": {
+        "type": "dir",
+        "size": "10556",
+        "parent_folder": "Python"
+    },
+    "Practice4": {
+        "type": "dir",
+        "size": "5337",
+        "parent_folder": "Python"
+    },
+    "Practice5": {
+        "type": "dir",
+        "size": "1875",
+        "parent_folder": "Python"
+    },
+    "Practice6": {
+        "type": "dir",
+        "size": "3621",
+        "parent_folder": "Python"
+    },
+    "Practice7": {
+        "type": "dir",
+        "size": "4096",
+        "parent_folder": "Python"
+    },
+    "Practice8": {
+        "type": "dir",
+        "size": "65555",
+        "parent_folder": "Python"
+    },
+    "Practice9": {
+        "type": "dir",
+        "size": "0",
+        "parent_folder": "Python"
+    },
+    "COMMIT_EDITMSG": {
+        "type": "file",
+        "size": "8",
+        "parent_folder": ".git"
+    },
+    "config": {
+        "type": "file",
+        "size": "311",
+        "parent_folder": ".git"
+    },
+    "description": {
+        "type": "file",
+        "size": "73",
+        "parent_folder": ".git"
+    },
+    "HEAD": {
+        "type": "file",
+        "size": "1062",
+        "parent_folder": "logs"
+    },
+    "hooks": {
+        "type": "dir",
+        "size": "23513",
+        "parent_folder": "Practice"
+    },
+    "index": {
+        "type": "file",
+        "size": "2697",
+        "parent_folder": ".git"
+    },
+    "info": {
+        "type": "dir",
+        "size": "0",
+        "parent_folder": ".git"
+    },
+    "logs": {
+        "type": "dir",
+        "size": "1062",
+        "parent_folder": "Practice"
+    },
+    "objects": {
+        "type": "dir",
+        "size": "0",
+        "parent_folder": "Practice"
+    },
+    "refs": {
+        "type": "dir",
+        "size": "0",
+        "parent_folder": ".git"
+    },
+    "applypatch-msg.sample": {
+        "type": "file",
+        "size": "478",
+        "parent_folder": "hooks"
+    },
+    "commit-msg.sample": {
+        "type": "file",
+        "size": "896",
+        "parent_folder": "hooks"
+    },
+    "fsmonitor-watchman.sample": {
+        "type": "file",
+        "size": "4726",
+        "parent_folder": "hooks"
+    },
+    "post-update.sample": {
+        "type": "file",
+        "size": "189",
+        "parent_folder": "hooks"
+    },
+    "pre-applypatch.sample": {
+        "type": "file",
+        "size": "424",
+        "parent_folder": "hooks"
+    },
+    "pre-commit.sample": {
+        "type": "file",
+        "size": "1643",
+        "parent_folder": "hooks"
+    },
+    "pre-merge-commit.sample": {
+        "type": "file",
+        "size": "416",
+        "parent_folder": "hooks"
+    },
+    "pre-push.sample": {
+        "type": "file",
+        "size": "1374",
+        "parent_folder": "hooks"
+    },
+    "pre-rebase.sample": {
+        "type": "file",
+        "size": "4898",
+        "parent_folder": "hooks"
+    },
+    "pre-receive.sample": {
+        "type": "file",
+        "size": "544",
+        "parent_folder": "hooks"
+    },
+    "prepare-commit-msg.sample": {
+        "type": "file",
+        "size": "1492",
+        "parent_folder": "hooks"
+    },
+    "push-to-checkout.sample": {
+        "type": "file",
+        "size": "2783",
+        "parent_folder": "hooks"
+    },
+    "update.sample": {
+        "type": "file",
+        "size": "3650",
+        "parent_folder": "hooks"
+    },
+    "exclude": {
+        "type": "file",
+        "size": "240",
+        "parent_folder": "info"
+    },
+    "heads": {
+        "type": "dir",
+        "size": "41",
+        "parent_folder": ".git"
+    },
+    "remotes": {
+        "type": "dir",
+        "size": "0",
+        "parent_folder": ".git"
+    },
+    "main": {
+        "type": "file",
+        "size": "41",
+        "parent_folder": "origin"
+    },
+    "origin": {
+        "type": "dir",
+        "size": "41",
+        "parent_folder": "refs"
+    },
+    "0f": {
+        "type": "dir",
+        "size": "846",
+        "parent_folder": ".git"
+    },
+    "13": {
+        "type": "dir",
+        "size": "105",
+        "parent_folder": ".git"
+    },
+    "1f": {
+        "type": "dir",
+        "size": "3657",
+        "parent_folder": ".git"
+    },
+    "26": {
+        "type": "dir",
+        "size": "203",
+        "parent_folder": ".git"
+    },
+    "28": {
+        "type": "dir",
+        "size": "50",
+        "parent_folder": ".git"
+    },
+    "2d": {
+        "type": "dir",
+        "size": "102",
+        "parent_folder": ".git"
+    },
+    "30": {
+        "type": "dir",
+        "size": "513",
+        "parent_folder": ".git"
+    },
+    "37": {
+        "type": "dir",
+        "size": "161",
+        "parent_folder": ".git"
+    },
+    "38": {
+        "type": "dir",
+        "size": "230",
+        "parent_folder": ".git"
+    },
+    "52": {
+        "type": "dir",
+        "size": "503",
+        "parent_folder": ".git"
+    },
+    "55": {
+        "type": "dir",
+        "size": "904",
+        "parent_folder": ".git"
+    },
+    "5f": {
+        "type": "dir",
+        "size": "160",
+        "parent_folder": ".git"
+    },
+    "60": {
+        "type": "dir",
+        "size": "416",
+        "parent_folder": ".git"
+    },
+    "63": {
+        "type": "dir",
+        "size": "627",
+        "parent_folder": ".git"
+    },
+    "67": {
+        "type": "dir",
+        "size": "112",
+        "parent_folder": ".git"
+    },
+    "69": {
+        "type": "dir",
+        "size": "120",
+        "parent_folder": ".git"
+    },
+    "75": {
+        "type": "dir",
+        "size": "127",
+        "parent_folder": ".git"
+    },
+    "7b": {
+        "type": "dir",
+        "size": "397",
+        "parent_folder": ".git"
+    },
+    "7e": {
+        "type": "dir",
+        "size": "309",
+        "parent_folder": ".git"
+    },
+    "88": {
+        "type": "dir",
+        "size": "155",
+        "parent_folder": ".git"
+    },
+    "8a": {
+        "type": "dir",
+        "size": "598",
+        "parent_folder": ".git"
+    },
+    "94": {
+        "type": "dir",
+        "size": "76",
+        "parent_folder": ".git"
+    },
+    "96": {
+        "type": "dir",
+        "size": "520",
+        "parent_folder": ".git"
+    },
+    "97": {
+        "type": "dir",
+        "size": "401",
+        "parent_folder": ".git"
+    },
+    "9c": {
+        "type": "dir",
+        "size": "80",
+        "parent_folder": ".git"
+    },
+    "9d": {
+        "type": "dir",
+        "size": "156",
+        "parent_folder": ".git"
+    },
+    "a5": {
+        "type": "dir",
+        "size": "178",
+        "parent_folder": ".git"
+    },
+    "a6": {
+        "type": "dir",
+        "size": "159",
+        "parent_folder": ".git"
+    },
+    "a7": {
+        "type": "dir",
+        "size": "227",
+        "parent_folder": ".git"
+    },
+    "ad": {
+        "type": "dir",
+        "size": "1078",
+        "parent_folder": ".git"
+    },
+    "b9": {
+        "type": "dir",
+        "size": "551",
+        "parent_folder": ".git"
+    },
+    "cb": {
+        "type": "dir",
+        "size": "1614",
+        "parent_folder": ".git"
+    },
+    "d0": {
+        "type": "dir",
+        "size": "479",
+        "parent_folder": ".git"
+    },
+    "d1": {
+        "type": "dir",
+        "size": "156",
+        "parent_folder": ".git"
+    },
+    "e0": {
+        "type": "dir",
+        "size": "106",
+        "parent_folder": ".git"
+    },
+    "e1": {
+        "type": "dir",
+        "size": "128",
+        "parent_folder": ".git"
+    },
+    "e6": {
+        "type": "dir",
+        "size": "15",
+        "parent_folder": ".git"
+    },
+    "eb": {
+        "type": "dir",
+        "size": "829",
+        "parent_folder": ".git"
+    },
+    "ec": {
+        "type": "dir",
+        "size": "886",
+        "parent_folder": ".git"
+    },
+    "f3": {
+        "type": "dir",
+        "size": "449",
+        "parent_folder": ".git"
+    },
+    "fa": {
+        "type": "dir",
+        "size": "497",
+        "parent_folder": ".git"
+    },
+    "fb": {
+        "type": "dir",
+        "size": "154",
+        "parent_folder": ".git"
+    },
+    "pack": {
+        "type": "dir",
+        "size": "0",
+        "parent_folder": ".git"
+    },
+    "ab9a5d8ffed3ef9f336a8b04484aefaa4df2aa": {
+        "type": "file",
+        "size": "846",
+        "parent_folder": "0f"
+    },
+    "c2b55eeb15adb6f8c49f69b2b4adfc312e85de": {
+        "type": "file",
+        "size": "105",
+        "parent_folder": "13"
+    },
+    "36feb68b9b3c07166981db217ef7b013f7a900": {
+        "type": "file",
+        "size": "3657",
+        "parent_folder": "1f"
+    },
+    "2520227cb1bc06a99474f9883e2598e3937207": {
+        "type": "file",
+        "size": "203",
+        "parent_folder": "26"
+    },
+    "186d4e05e6502d7f34302e53bf6df8ce5b8808": {
+        "type": "file",
+        "size": "50",
+        "parent_folder": "28"
+    },
+    "de96b6aecc4663209c2b2846dda63a3524c3fd": {
+        "type": "file",
+        "size": "102",
+        "parent_folder": "2d"
+    },
+    "9fed847cee20f7d1b654c5f34abc794af0f656": {
+        "type": "file",
+        "size": "513",
+        "parent_folder": "30"
+    },
+    "336671e396ff82cd1d6edb2fc0ed8616626720": {
+        "type": "file",
+        "size": "161",
+        "parent_folder": "37"
+    },
+    "fb84b4b5060e8d6cced85132d458ff5bd28bf9": {
+        "type": "file",
+        "size": "230",
+        "parent_folder": "38"
+    },
+    "1d4160cd08fc7a39a505173d064471b958f634": {
+        "type": "file",
+        "size": "503",
+        "parent_folder": "52"
+    },
+    "7940b67a11e384af775c7598fac47656f6b367": {
+        "type": "file",
+        "size": "107",
+        "parent_folder": "55"
+    },
+    "fadc005752b131c9937c7282f0faf59b2a6af3": {
+        "type": "file",
+        "size": "797",
+        "parent_folder": "55"
+    },
+    "26bc71b7b25c8042c1729bf3448ff66b5e1b5c": {
+        "type": "file",
+        "size": "160",
+        "parent_folder": "5f"
+    },
+    "19e2892214338ff3a38fc2b2974acc8aa0b7a9": {
+        "type": "file",
+        "size": "416",
+        "parent_folder": "60"
+    },
+    "7228786fca2781954597c2c59fa1fc9d62b997": {
+        "type": "file",
+        "size": "627",
+        "parent_folder": "63"
+    },
+    "f969fe09929578f354a4b166f1952756b8b773": {
+        "type": "file",
+        "size": "112",
+        "parent_folder": "67"
+    },
+    "0290ff2e56df3a3d4f13efce718aac17b8dc24": {
+        "type": "file",
+        "size": "120",
+        "parent_folder": "69"
+    },
+    "7612a3c407558a56bbbaf7732b5d598c6c1ac9": {
+        "type": "file",
+        "size": "127",
+        "parent_folder": "75"
+    },
+    "a70b65db78f6451b241226314db587680af512": {
+        "type": "file",
+        "size": "397",
+        "parent_folder": "7b"
+    },
+    "e91e9bee3948a5ff7a184524a957470deafabd": {
+        "type": "file",
+        "size": "309",
+        "parent_folder": "7e"
+    },
+    "f3d73b201b98277e91ea8a2ae5c4837b529d5b": {
+        "type": "file",
+        "size": "155",
+        "parent_folder": "88"
+    },
+    "8fd25fb2548aa4e7d87e5e1cd0bace5fdf3240": {
+        "type": "file",
+        "size": "598",
+        "parent_folder": "8a"
+    },
+    "1ac78773e02938be05b768cce6198d4779f4a2": {
+        "type": "file",
+        "size": "76",
+        "parent_folder": "94"
+    },
+    "b8d8a2f451bdfde22eaf5d16673ebee44c35e4": {
+        "type": "file",
+        "size": "520",
+        "parent_folder": "96"
+    },
+    "739cc804e920cefc6c5219937cae19b5d735ca": {
+        "type": "file",
+        "size": "401",
+        "parent_folder": "97"
+    },
+    "eaba87c650964217c13d21ff720e0a25c92b3f": {
+        "type": "file",
+        "size": "80",
+        "parent_folder": "9c"
+    },
+    "5d295eca55e1e3d853ead4206822fba2aeb99d": {
+        "type": "file",
+        "size": "156",
+        "parent_folder": "9d"
+    },
+    "4f7720347e790546af1f382a57a20a2306cd55": {
+        "type": "file",
+        "size": "178",
+        "parent_folder": "a5"
+    },
+    "66e1fd26881c23f2bc7380d0208bcb76bcb4f5": {
+        "type": "file",
+        "size": "159",
+        "parent_folder": "a6"
+    },
+    "67feb76acc1f052b74d778b9e54b91a45ed472": {
+        "type": "file",
+        "size": "227",
+        "parent_folder": "a7"
+    },
+    "ce13f5cc509fcf55a063e3d5169f9dad5a5044": {
+        "type": "file",
+        "size": "1027",
+        "parent_folder": "ad"
+    },
+    "fbec715fad1b52b015d149fbef2dfce80c41c1": {
+        "type": "file",
+        "size": "51",
+        "parent_folder": "ad"
+    },
+    "b5d87a766564fe2f9539f30346e5e2c2eb741c": {
+        "type": "file",
+        "size": "551",
+        "parent_folder": "b9"
+    },
+    "902b02e2ae40aa0144543541629c44f7b33954": {
+        "type": "file",
+        "size": "1614",
+        "parent_folder": "cb"
+    },
+    "075915db2f77589dc07bcf73e69fd9e4251a81": {
+        "type": "file",
+        "size": "479",
+        "parent_folder": "d0"
+    },
+    "629278c4c515c79dc34fee513449fcfba8b99c": {
+        "type": "file",
+        "size": "156",
+        "parent_folder": "d1"
+    },
+    "a270c063e42d4835a32e4223084e2106d9e541": {
+        "type": "file",
+        "size": "106",
+        "parent_folder": "e0"
+    },
+    "cae08ec4f2e62f8caa141a989cde0705e1c7d6": {
+        "type": "file",
+        "size": "128",
+        "parent_folder": "e1"
+    },
+    "9de29bb2d1d6434b8b29ae775ad8c2e48c5391": {
+        "type": "file",
+        "size": "15",
+        "parent_folder": "e6"
+    },
+    "25f4198f9c68ab7170844f0c166f9bdb4acdde": {
+        "type": "file",
+        "size": "829",
+        "parent_folder": "eb"
+    },
+    "a0385355a95a9cbfdb6c9a9d0342ec13ccacbb": {
+        "type": "file",
+        "size": "886",
+        "parent_folder": "ec"
+    },
+    "b68e4c00d1288dd883bf22502cea99bc5c0bd5": {
+        "type": "file",
+        "size": "449",
+        "parent_folder": "f3"
+    },
+    "758e38552843001dabe7bb1b0172a0a8133b26": {
+        "type": "file",
+        "size": "497",
+        "parent_folder": "fa"
+    },
+    "e71a0c837ee8e8be042028f6988ec1a865e7e5": {
+        "type": "file",
+        "size": "154",
+        "parent_folder": "fb"
+    },
+    "tags": {
+        "type": "dir",
+        "size": "0",
+        "parent_folder": ".git"
+    },
+    ".gitignore": {
+        "type": "file",
+        "size": "50",
+        "parent_folder": ".idea"
+    },
+    "codeStyles": {
+        "type": "dir",
+        "size": "153",
+        "parent_folder": "Practice"
+    },
+    "inspectionProfiles": {
+        "type": "dir",
+        "size": "1334",
+        "parent_folder": "Practice"
+    },
+    "misc.xml": {
+        "type": "file",
+        "size": "193",
+        "parent_folder": ".idea"
+    },
+    "modules.xml": {
+        "type": "file",
+        "size": "275",
+        "parent_folder": ".idea"
+    },
+    "Practice.iml": {
+        "type": "file",
+        "size": "291",
+        "parent_folder": ".idea"
+    },
+    "vcs.xml": {
+        "type": "file",
+        "size": "185",
+        "parent_folder": ".idea"
+    },
+    "workspace.xml": {
+        "type": "file",
+        "size": "9738",
+        "parent_folder": ".idea"
+    },
+    "codeStyleConfig.xml": {
+        "type": "file",
+        "size": "153",
+        "parent_folder": "codeStyles"
+    },
+    "profiles_settings.xml": {
+        "type": "file",
+        "size": "174",
+        "parent_folder": "inspectionProfiles"
+    },
+    "Project_Default.xml": {
+        "type": "file",
+        "size": "1160",
+        "parent_folder": "inspectionProfiles"
+    },
+    "Task1.py": {
+        "type": "file",
+        "size": "1265",
+        "parent_folder": "Practice1"
+    },
+    "Task2.py": {
+        "type": "file",
+        "size": "874",
+        "parent_folder": "Practice1"
+    },
+    "Task3.py": {
+        "type": "file",
+        "size": "989",
+        "parent_folder": "Practice1"
+    },
+    "task1.py": {
+        "type": "file",
+        "size": "0",
+        "parent_folder": "Practice9"
+    },
+    "task2.py": {
+        "type": "file",
+        "size": "0",
+        "parent_folder": "Practice9"
+    },
+    "task3.py": {
+        "type": "file",
+        "size": "468",
+        "parent_folder": "Practice5"
+    },
+    "terminal.py": {
+        "type": "file",
+        "size": "4063",
+        "parent_folder": "Practice4"
+    },
+    "check_date.py": {
+        "type": "file",
+        "size": "1519",
+        "parent_folder": "Practice6"
+    },
+    "chess.py": {
+        "type": "file",
+        "size": "2102",
+        "parent_folder": "Practice6"
+    },
+    "__init__.py": {
+        "type": "file",
+        "size": "73",
+        "parent_folder": "ExportTo"
+    },
+    "homework": {
+        "type": "dir",
+        "size": "6479",
+        "parent_folder": "Practice"
+    },
+    "hw_task.py": {
+        "type": "file",
+        "size": "1782",
+        "parent_folder": "homework"
+    },
+    "lenew001.test": {
+        "type": "file",
+        "size": "0",
+        "parent_folder": "homework"
+    },
+    "lenew002.test": {
+        "type": "file",
+        "size": "0",
+        "parent_folder": "homework"
+    },
+    "minew003.test": {
+        "type": "file",
+        "size": "0",
+        "parent_folder": "homework"
+    },
+    "sem_task1.py": {
+        "type": "file",
+        "size": "769",
+        "parent_folder": "homework"
+    },
+    "sem_task2.py": {
+        "type": "file",
+        "size": "773",
+        "parent_folder": "homework"
+    },
+    "sem_task3.py": {
+        "type": "file",
+        "size": "1790",
+        "parent_folder": "homework"
+    },
+    "sem_task4.py": {
+        "type": "file",
+        "size": "1365",
+        "parent_folder": "homework"
+    },
+    "csv_file.csv": {
+        "type": "file",
+        "size": "6116",
+        "parent_folder": "Practice8"
+    },
+    "ExportTo": {
+        "type": "dir",
+        "size": "5410",
+        "parent_folder": "Practice"
+    },
+    "json_file.json": {
+        "type": "file",
+        "size": "38490",
+        "parent_folder": "Practice8"
+    },
+    "pickle_file.pickle": {
+        "type": "file",
+        "size": "15279",
+        "parent_folder": "Practice8"
+    },
+    "to_csv.py": {
+        "type": "file",
+        "size": "400",
+        "parent_folder": "ExportTo"
+    },
+    "to_json.py": {
+        "type": "file",
+        "size": "390",
+        "parent_folder": "ExportTo"
+    },
+    "to_pickle.py": {
+        "type": "file",
+        "size": "451",
+        "parent_folder": "ExportTo"
+    },
+    "__pycache__": {
+        "type": "dir",
+        "size": "2369",
+        "parent_folder": "Practice8"
+    },
+    "to_csv.cpython-310.pyc": {
+        "type": "file",
+        "size": "699",
+        "parent_folder": "__pycache__"
+    },
+    "to_json.cpython-310.pyc": {
+        "type": "file",
+        "size": "694",
+        "parent_folder": "__pycache__"
+    },
+    "to_pickle.cpython-310.pyc": {
+        "type": "file",
+        "size": "730",
+        "parent_folder": "__pycache__"
+    },
+    "__init__.cpython-310.pyc": {
+        "type": "file",
+        "size": "246",
+        "parent_folder": "__pycache__"
+    }
+}
