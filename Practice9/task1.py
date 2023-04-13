@@ -47,7 +47,7 @@ def save_to_json(func: Callable):
 
 
 @save_to_json
-@three_numbers('coefficient.csv')
+@three_numbers('coefficients.csv')
 def roots_of_quadratic_equation(a: int, b: int, c: int) -> str:
 	"""Решение квадратных уравнений."""
 	d = b ** 2 - 4 * a * c
