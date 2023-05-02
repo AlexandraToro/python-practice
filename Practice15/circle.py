@@ -1,4 +1,3 @@
-import argparse
 import math
 import logging
 
@@ -54,13 +53,3 @@ class NotNumException(CircleException):
 	def __init__(self):
 		super().__init__('NotNumException', 'Entering a numeric value is required...')
 
-# if __name__ == '__main__':
-# 	args = argparse.ArgumentParser()
-# 	args.add_argument("-r", "--radius", default=1, type=int)
-# 	arg_res = args.parse_args()
-# 	a = Circle(arg_res.radius)
-# 	n = Circle(-9)
-# 	# m = Circle('xcjk')
-# 	print(a.get_square())
-# 	# print(n.get_square())
-# 	# print(m.get_square())
